@@ -1,0 +1,6 @@
+{
+  "API_URL": "https://api.tvmaze.com/shows",
+  "API_URL_SEARCH": "https://api.tvmaze.com/search/shows",
+  "API_URL_GET_ONE": " http://api.tvmaze.com/shows",
+  "IMAGE_PLACE_HOLDER": "https://via.placeholder.com/500"
+}

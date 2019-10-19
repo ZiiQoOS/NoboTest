@@ -1,11 +1,14 @@
 import React, {Component} from 'react';
+import './Footer.css';
 
 class Footer extends Component {
     render() {
         return (
-            <div>
-                {this.props.children}
-            </div>
+            <footer className="footer" color="primary">
+                <div className="footer">
+                    <span className="footerText">Made with ❤ By Zakaria</span>
+                </div>
+            </footer>
         );
     }
 }

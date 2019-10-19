@@ -1,11 +1,11 @@
-## Available Scripts
+## Nobo Technical test
 
 This project is a technical test for the position of a Javascript full stack intern in [Nobo](https://nobo.life/)
 
 
 ### `npm install`
 
-installs the app's dependencies.
+installs the app dependencies.
 
 
 ### `npm start`
